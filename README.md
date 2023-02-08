@@ -2,6 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# to start - `npx create-react-app ./' within the folder.
+# npm install react-icons = figma design to website
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
