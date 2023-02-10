@@ -15,11 +15,13 @@
 
 .gpt3__header-content h1 {
     font-family: var(--font-family);
-    /* background: var(--gradient-text); */
+    color: #fff;
     font-weight: 800;
     font-size: 62px;
     line-height: 75px;
     letter-spacing: -0.04em;
+/* background-color:  linear-gradient(90deg, rgba(181, 85, 54, 1) 0%, rgba(238, 212, 130, 1) 100%);; */
+
 }
 
 .gpt3__header-content p {
@@ -35,7 +37,6 @@
 .gpt3__header-content__input {
     width: 100%;
     margin: 2rem 0 1rem;
-
     display: flex;
     flex-direction: row;
 }
@@ -70,7 +71,7 @@
     border: 2px solid #FF4820;
     padding: 0 1rem;
     color: #fff;
-    cursor: pointer;
+    cursor: pointer; 
     outline: none;
 
     border-top-right-radius: 5px;
